@@ -7,6 +7,7 @@ module.exports = {
     requestTimeout: 30,
     requestTimeoutRenewal: 5,
     extKeyRequired: true,
+	main: 'index.js',
     type: 'service',
     prerequisites: {
         cpu: '',
