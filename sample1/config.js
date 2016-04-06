@@ -1,6 +1,7 @@
 'use strict';
 
 module.exports = {
+	// missing port
     serviceName: "sampleFailing",
     serviceGroup: "test",
     serviceVersion: 1,
