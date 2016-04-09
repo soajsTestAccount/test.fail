@@ -1,10 +1,11 @@
 'use strict';
 
+// wrong type
 module.exports = {
 	serviceName: "sampleDaemonFail2",
 	serviceGroup: "test",
 	servicePort: 2004,
-	type: 'daemonss',
+	type: 'daemonssss',
 	prerequisites: {},
 	serviceVersion: 1,
 	errors: {},
