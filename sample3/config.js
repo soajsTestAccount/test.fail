@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	serviceName: "sampleDaemonFail",
+	serviceName: "sampledaemonfail",
 	serviceGroup: "test",
 	servicePort: 2001,
 	type: 'daemon',

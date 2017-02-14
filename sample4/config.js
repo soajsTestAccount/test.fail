@@ -2,7 +2,7 @@
 
 // wrong type
 module.exports = {
-	serviceName: "sampleDaemonFail2",
+	serviceName: "sampledaemonfail2",
 	serviceGroup: "test",
 	servicePort: 2004,
 	type: 'daemonssss',

@@ -2,7 +2,7 @@
 
 module.exports = {
 	// missing port
-    serviceName: "sampleFailing",
+    serviceName: "samplefailing",
     serviceGroup: "test",
     serviceVersion: 1,
     requestTimeout: 30,
